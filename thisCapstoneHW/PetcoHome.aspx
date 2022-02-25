@@ -6,7 +6,7 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-<h1>Welcome to Petco!</h1>
+<h1>Where the healthy pets go!</h1>
    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -15,17 +15,17 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/cat.jpg" style="width:50px;height:600px;" alt="First slide">
+            <img class="d-block w-100" src="img/dog.jpg" style="width:50px;height:600px;" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
-                <h5>This is a cat</h5>
-                <p>Meow.</p>
+                <h5>Welcome to Petco.com!</h5>
+                <p>What are you looking for today?</p>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="img/hermit.jpg" style="width:50px;height:600px;" alt="Second slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="img/dog.jpg" style="width:50px;height:600px;" alt="Third slide">
+            <img class="d-block w-100" src="img/cat.jpg" style="width:50px;height:600px;" alt="Third slide">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
